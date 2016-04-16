@@ -1,0 +1,53 @@
+
+h1 {
+    font-size: 'Helvetica', Sans-serif;
+    font-size: 58px;
+}
+
+#container-fluid {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#hero {
+    height: 600px;
+    background-color: gray;
+}
+
+.header {
+     border: 1px solid green;
+}
+
+#footer {
+    background-color: green;
+    height: 60px;
+}
+
+ul {
+    padding: 20px;
+}
+
+li {
+    float: right;
+    border: 1px solid red;
+    margin-right: 20px;
+    padding: 20px;
+    
+}
+
+#logo {
+    float: left;
+    font-family: 'Helvetica', sans-serif;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.box {
+    border: 1px solid red;
+    height: 400px;
+}
+
+nav p{
+    float: right;
+    margin-left: 20px;
+}
