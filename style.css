@@ -30,6 +30,7 @@ footer {
   background-position: center;
 }
 
-page-header {
-  height: 150px;
+.page-header {
+  height: auto;
+  width: auto;
 }
