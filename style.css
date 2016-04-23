@@ -7,12 +7,10 @@
   background-size: cover;
   overflow: hidden;
 }
-
 p {
   color: #03396c;
   font-size: 15px;
 }
-
 footer {
   background-color: #003559;
   color: white;
@@ -28,5 +26,5 @@ footer {
 }
 
 .template {
-  background-image: url("cob.png");
+  background-url ("courthouse-bw.jpg");
 }
