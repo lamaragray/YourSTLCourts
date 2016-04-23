@@ -29,3 +29,7 @@ footer {
   background-image: url("courthouse-bw.jpg");
   background-position: center;
 }
+
+.header {
+  height: 150px;
+}
