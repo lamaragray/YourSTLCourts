@@ -1,10 +1,33 @@
 <table>
   <tr>
-    <th>Miles Over</th>
-    <th>Cost$/mile</th>
+    <th>Offense</th>
+    <th>Fine</th>
+    <th>Court Cost</th>
+    <th>Total</th>
+      <td>Corner Cutting to Avoid Signal</td>
+      <td>$70.50</td>
+      <td>$24.50</td>
+      <td>$95.00</td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td>$6</td>
-    <td>$7</td>
+    <th></th>
+      <td></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th></th>
+      <td></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th></th>
+      <td></td>
   </tr>
 </table>
