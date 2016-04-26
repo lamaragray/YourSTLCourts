@@ -1,7 +1,7 @@
 table,
 th,
 td {
-  border: 1px solid #007EA7;
+  border: 1px solid #007EA7 fill;
   height: 60px;
-  width: 200px;
+  width: 400px;
 }
