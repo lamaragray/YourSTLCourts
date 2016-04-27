@@ -8,3 +8,8 @@ td {
   border: 4px solid #007EA7;
   height: 60px;
 }
+
+br {
+    display: block;
+    line-height:20px;
+}
